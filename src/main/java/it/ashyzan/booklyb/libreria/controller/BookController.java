@@ -1,4 +1,4 @@
-package it.ashyzan.libreria.controller;
+package it.ashyzan.booklyb.libreria.controller;
 
 import java.util.List;
 
@@ -8,9 +8,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-
-import it.ashyzan.libreria.model.Book;
-import it.ashyzan.libreria.repository.BookRepository;
+import it.ashyzan.booklyb.libreria.model.Book;
+import it.ashyzan.booklyb.libreria.repository.BookRepository;
 
 @Controller
 @RequestMapping("/books")

@@ -1,4 +1,4 @@
-package it.ashyzan.libreria.model;
+package it.ashyzan.booklyb.libreria.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
